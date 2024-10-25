@@ -19,12 +19,5 @@ To get started, clone the repository to your local machine:
 git clone https://github.com/SakshiDargu/giva-productmanagement.git
 cd giva-productmanagement
 
-#### 2.Setting up the Backend:
-##### Navigate to the backend directory:
-```bash
-cd backend
-##### Install the necessary packages:
-```bash
-npm install
 
 
